@@ -1,0 +1,25 @@
+Acolyte
+Charlatan
+City Watch
+Clane Crafter
+Cloistered Scholar
+Courtier
+Criminal
+Entertainer
+Faction Agent
+Far Traveler
+Folk Hero
+Guild artisan
+Hermit
+Inheritor
+Investigator
+Knight of the Order
+Noble
+Outlander
+Sage
+Sailor
+Soldier
+Urban Bounty Hunter
+Urchin
+Uthgardt Tribe Member
+Waterdhavian noble

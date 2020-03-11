@@ -1,0 +1,99 @@
+Barbarian
+Path of the Berserker
+Path of the Totem Warrior
+Path of the Ancestral Guardian
+Path of the Storm Herald
+Path of the Zealot
+
+Bard
+College of Lore
+College of Valour
+College of Glamour
+College of Swords
+College of Whispers
+
+Blood Hunter
+Order of the Ghostslayer
+Order of the Lycan
+Order of the Mutant
+Order of the Profane Soul
+
+Cleric
+Knowledge Domain
+Life Domain
+Light Domain
+Nature Domain
+Tempest Domain
+Trickery Domain
+War Domain
+Forge Domain
+Grave Domain
+
+Druid
+Circle of the Land
+Circle of the Moon
+Circle of Dreams
+Circle of the Shepherd
+
+Fighter
+Champion
+Battle Master
+Eldritch Knight
+Arcane Archer
+Cavalier
+Samurai
+
+Monk
+Way of the Open Hand
+Way of Shadow
+Way of the Four Elements
+Way of the Drunken Master
+Way of the Kensei
+
+Paladin
+Oath of Devotion
+Oath of the Ancients
+Oath of Vengeance
+Oath of Conquest
+Oath of Redemption
+
+Ranger
+Hunter
+Beast Master
+Gloom Stalker
+Horizon Walker
+Monster Slayer
+
+Rogue
+Thief
+Assassin
+Arcane Trickster
+Inquisitive
+Mastermind
+Scout
+Swashbuckler
+
+Sorcerer
+Draconic Bloodline
+Wild Magic
+Divine Soul
+Shadow Magic
+Storm Sorcery
+
+Warlock
+The Archfey
+The Fiend
+The Great Old One
+The Celestial
+The Hexblade
+
+Wizard
+School of Abjuration
+School of Conjuration
+School of Divination
+School of Enchantment
+School of Evocation
+School of Illusion
+School of Necromancy
+School of Transmutation
+War Magic
